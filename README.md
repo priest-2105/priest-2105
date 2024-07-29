@@ -1,11 +1,3 @@
-### Currently Listening To — ✨🎧
-<div class="row center">
-        <img id="example-view" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31xkssmfnieg2gazxyiezsecjxjm&amp;cover_image=true&amp;theme=default&amp;show_offline=true&amp;background_color=a83838&amp;interchange=false&amp;bar_color_cover=false">
-      </div>
-
-
-
-
 
 
 <h1 align="left">Hey 👋 What's up?</h1>
@@ -15,6 +7,16 @@
 <h2 align="left">About me</h2>
 
 <p align="left">✨ Creating bugs since I started coding<br>📚 Currently diving deep into advanced JavaScript and TypeScript<br>🎯 Goals: Master full-stack development and contribute to open-source projects<br>🎲 Fun fact: I love solving puzzles and play chess in my free time</p>
+
+### Currently Listening To — ✨🎧
+<div class="row center">
+        <img id="example-view" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31xkssmfnieg2gazxyiezsecjxjm&amp;cover_image=true&amp;theme=default&amp;show_offline=true&amp;background_color=a83838&amp;interchange=false&amp;bar_color_cover=false">
+      </div>
+
+
+
+
+
 
 <h2 align="left">I code with</h2>
 
