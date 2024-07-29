@@ -57,8 +57,8 @@
 ### Currently Listening To — ✨🎧
 
 <p>
-<a href=”https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31xkssmfnieg2gazxyiezsecjxjm&cover_image=true&theme=default&show_offline=true&background_color=a83838&interchange=false&bar_color_cover=false">
-<img src=”https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31xkssmfnieg2gazxyiezsecjxjm&cover_image=true&theme=default&show_offline=true&background_color=a83838&interchange=false&bar_color_cover=false" />
+<a href=”https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31xkssmfnieg2gazxyiezsecjxjm&redirect=true">
+<img src=”https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31xkssmfnieg2gazxyiezsecjxjm&cover_image=true&theme=default&show_offline=true&background_color=a83838&interchange=false&bar_color_cover=false)" />
 </a>
 </p>
 
