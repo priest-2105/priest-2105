@@ -51,3 +51,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook logo"  />
   </a>
 </div>
+
+
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31xkssmfnieg2gazxyiezsecjxjm&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31xkssmfnieg2gazxyiezsecjxjm&cover_image=true&theme=default&show_offline=false&background_color=a83838&interchange=false)]]
