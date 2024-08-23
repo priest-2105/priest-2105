@@ -1,6 +1,6 @@
 
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hello there ✨✨ 👋 </h1>
 
 <p align="left">My name is Fawaz Bailey, and I'm a Frontend Web Developer from Nigeria.</p>
 
