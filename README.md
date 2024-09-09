@@ -6,7 +6,9 @@
 
 <h2 align="left">About me</h2>
 
-<p align="left">✨ Creating bugs since I started coding<br>📚 Currently diving deep into advanced JavaScript and TypeScript<br>🎯 Goals: Master full-stack development and contribute to open-source projects<br>🎲 Fun fact: I love solving puzzles and play chess in my free time</p>
+<p align="left">✨✨Creating bugs since I started coding<br>
+  📚 Currently diving deep into advanced JavaScript and TypeScript<br>
+  🎯 Goals: Master full-stack development and contribute to open-source projects<br><br>🎲 I listen to music and play chess in my free time</p>
 
 ### Currently Listening To — ✨🎧
 <div class="row center" style="text-align:center;">
