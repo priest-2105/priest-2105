@@ -14,10 +14,7 @@
 <div class="row center" style="text-align:center;">
         <img style="text-align:center;" id="example-view" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31xkssmfnieg2gazxyiezsecjxjm&amp;cover_image=true&amp;theme=default&amp;show_offline=true&amp;background_color=a83838&amp;interchange=false&amp;bar_color_cover=false">
       </div>
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=priest-2105&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
+ 
 
 
 <h2 align="left">I code with</h2>
