@@ -2,7 +2,7 @@
 
 <h1 align="left">Hello there ✨✨ 👋 </h1>
 
-<p align="left">My name is Fawaz Bailey, and I'm a Frontend Web Developer from Nigeria.</p>
+<p align="left">My name is Fawaz Bailey, and I'm a Frontend Engineer from Nigeria.</p>
 
 <h2 align="left">About me</h2>
 
