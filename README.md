@@ -2,13 +2,8 @@
 
 <h1 align="left">Hello there ✨✨ 👋 </h1>
 
-<p align="left">My name is Fawaz Bailey, and I'm a Frontend Engineer from Nigeria.</p>
+<p align="left">I'm Bailey, i code and play chess.</p>
 
-<h2 align="left">About me</h2>
-
-<p align="left">✨✨Creating bugs since I started coding<br>
-  📚 Currently diving deep into advanced JavaScript and TypeScript<br>
-  🎯 Goals: Master full-stack development and contribute to open-source projects<br><br>🎲 I listen to music and play chess in my free time</p>
 
 ### Currently Listening To — ✨🎧
 <div class="row center" style="text-align:center;">
