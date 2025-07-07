@@ -43,7 +43,18 @@
 </div>
 
 <img src="https://raw.githubusercontent.com/priest-2105/priest-2105/output/snake.svg" alt="Snake animation" />
+
+div align="left">
+  <a href="https://www.linkedin.com/in/fawazbailey/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo"  />
+  </a>
+  <a href="https://twitter.com/priest2105" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/priest21o5/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo"  />
+  </a>
+  <a href="https://www.facebook.com/fawaz.bailey/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook logo"  />
+  </a>
 </div>
-
-
-
