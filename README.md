@@ -14,7 +14,7 @@
 
 <h2 align="left">I code with</h2>
 
-<div align="left" style="display:flex;>
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo"  />
@@ -44,7 +44,7 @@
 
 <img src="https://raw.githubusercontent.com/priest-2105/priest-2105/output/snake.svg" alt="Snake animation" />
 
-div align="left">
+<div align="left">
   <a href="https://www.linkedin.com/in/fawazbailey/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo"  />
   </a>
