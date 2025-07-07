@@ -14,7 +14,7 @@
 
 <h2 align="left">I code with</h2>
 
-<div align="left">
+<div align="left" style="display:flex;>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo"  />
@@ -43,7 +43,7 @@
 </div>
 
 <img src="https://raw.githubusercontent.com/priest-2105/priest-2105/output/snake.svg" alt="Snake animation" />
-
+</div>
 
 
 
